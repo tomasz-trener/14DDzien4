@@ -1,0 +1,22 @@
+﻿
+http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+
+c1.
+Stwórz klase Zawodnik i dodaj do niej pola: Imie, Nazwisko... i inne  zgodnie z plikiem zawodnicy.txt
+
+c2. 
+następnie wczytaj z pliku zawodnicy.txt wszystkie dane do tablicy zawodników
+
+Zawodnik z = new Zawodnik(); 
+Zawodnik[] tab = new Zawodnik[n]
+
+tab[i] = z;
+
+c3.
+nastepnie dodaj do klasy zawodnik metodę PrzedstawSie, 
+która zwraca napis w postaci:
+Nazywam się {imie} {nazwisko} i pochodzę z {kraju}
+
+c4 jako datasource ustaw tablice zawodnikow 
+

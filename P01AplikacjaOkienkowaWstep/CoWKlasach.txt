@@ -1,0 +1,14 @@
+﻿
+
+W klasach mozemy zdefiniować:
+
+- metody (co dana klasa potrafi zrobic)
+- pola (okresla cechę (właściwość) danego obiektu )
+- właściwości - to samo co pola tylko o rozszerzonych mozliwosciach
+- konstruktory (okreslaja w jaki sposob dany obiekt tworzony)
+
+czym sie rozni klasa od obiektu (instacji klasy) ? 
+
+klasa to taki szablon (przespis) jak to ma wygladac 
+
+obiekt to juz konkretny element "fizyczny" danej klasy 

@@ -1,0 +1,6 @@
+﻿Stwórz program, który pozwala na pobieranie aktualnej pogody dla danego miasta z internetu
+i opcjonalne ustawienie jednostki w jakiej ta tempertura ma być zwracana 
+
+W tekstobxie podajemy nazwe miasta 
+w radiobutton ustaw jednostke (jedna z trzech) : F, K, C 
+
